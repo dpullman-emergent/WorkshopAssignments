@@ -1,6 +1,6 @@
 Student Name | User | Website | Lab Instructions
 ------------ | ---------------| ---------- | -------------
-Nirmal | user1 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+Kenny | user1 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Sreenivasulu Guduru | user2 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Thierno Barry | user3 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Vishakha | user4 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
@@ -38,3 +38,4 @@ swilson | user35 | https://console-openshift-console.apps.openshift4.lab-emergen
 Gustavo Zastrow | user36 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Bob Perschau | user37 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Stacy Blaney | user34 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+Nirmal | user35 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
