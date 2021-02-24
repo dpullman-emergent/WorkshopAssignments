@@ -37,7 +37,7 @@ Matt Johnston | user34 | https://console-openshift-console.apps.openshift4.lab-e
 swilson | user35 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Gustavo Zastrow | user36 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Bob Perschau | user37 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
-Stacy Blaney | user34 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+Stacy Blaney | user38 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Nirmal | user35 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 dfox@crawfordtech.com | user36 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 
