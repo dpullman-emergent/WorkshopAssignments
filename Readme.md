@@ -13,7 +13,7 @@ Holly | user10 | https://console-openshift-console.apps.openshift4.lab-emergent3
 Chris Anderly | user11 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Ryan Livingston | user12 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Rob Focht | user13 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
-Doug Paschal | user34 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+Doug Paschal | user40 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Kyle Moore | user15 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Zach Brown | user16 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
 Anthony Pope-Cruz | user17 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
